@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headline4,
             ),
             const SizedBox(height: 20),
-            Text(
+            const Text(
               'Silahkan pilih halaman di bawah ini:',
             ),
             const SizedBox(height: 5),
