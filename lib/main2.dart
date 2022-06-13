@@ -47,6 +47,7 @@ class Home extends StatelessWidget {
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 20),
               ),
+              const SizedBox(height: 10),
 
               ButtonBar(
                 alignment: MainAxisAlignment.center,
