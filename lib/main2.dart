@@ -43,7 +43,7 @@ class Home extends StatelessWidget {
 
               const SizedBox(height: 10),
               const Text(
-                'Silahkan pilih halaman di bawah ini::',
+                'Silahkan pilih halaman di bawah ini:',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 20),
               ),
